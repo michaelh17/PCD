@@ -146,10 +146,20 @@ end;
   //interpolasi
    if perbaikanR.ItemIndex = 2 then
    begin
+   for y:=0 to image1.Height-1 do
+     begin
+      for x:=0 to image1.Width-1 do
+        begin
+         hasilR[x*skala,y*skala] := bitmapR[x,y];
+         hasilG[x*skala,y*skala] := bitmapG[x,y];
+         hasilB[x*skala,y*skala] := bitmapB[x,y];
+        end;
+      end;
+
    //horizontal
    for y:=0 to image1.Width-1 do
      begin
-      for x:=0 to image2.Height-1 do
+      for x:=0 to image1.Height-1 do
         begin
          intervalR := (bitmapR[x+1,y]-bitmapR[x,y])/skala;
          intervalG := (bitmapG[x+1,y]-bitmapG[x,y])/skala;
