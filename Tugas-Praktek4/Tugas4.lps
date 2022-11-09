@@ -12,7 +12,7 @@
         <WindowIndex Value="-1"/>
         <TopLine Value="-1"/>
         <CursorPos X="-1" Y="-1"/>
-        <UsageCount Value="25"/>
+        <UsageCount Value="30"/>
       </Unit>
       <Unit>
         <Filename Value="main.pas"/>
@@ -21,31 +21,14 @@
         <HasResources Value="True"/>
         <ResourceBaseClass Value="Form"/>
         <IsVisibleTab Value="True"/>
-        <TopLine Value="142"/>
-        <CursorPos X="4" Y="158"/>
-        <ComponentState Value="1"/>
-        <UsageCount Value="25"/>
+        <TopLine Value="152"/>
+        <CursorPos X="31" Y="162"/>
+        <UsageCount Value="30"/>
         <Loaded Value="True"/>
         <LoadedDesigner Value="True"/>
       </Unit>
     </Units>
     <JumpHistory HistoryIndex="29">
-      <Position>
-        <Filename Value="main.pas"/>
-        <Caret Line="73" Column="56" TopLine="63"/>
-      </Position>
-      <Position>
-        <Filename Value="main.pas"/>
-        <Caret Line="98" Column="2" TopLine="89"/>
-      </Position>
-      <Position>
-        <Filename Value="main.pas"/>
-        <Caret Line="94" Column="69" TopLine="65"/>
-      </Position>
-      <Position>
-        <Filename Value="main.pas"/>
-        <Caret Line="64" Column="3" TopLine="62"/>
-      </Position>
       <Position>
         <Filename Value="main.pas"/>
         <Caret Line="84" Column="30" TopLine="84"/>
@@ -149,6 +132,22 @@
       <Position>
         <Filename Value="main.pas"/>
         <Caret Line="186" Column="8" TopLine="172"/>
+      </Position>
+      <Position>
+        <Filename Value="main.pas"/>
+        <Caret Line="95" Column="60" TopLine="87"/>
+      </Position>
+      <Position>
+        <Filename Value="main.pas"/>
+        <Caret Line="195" Column="34" TopLine="179"/>
+      </Position>
+      <Position>
+        <Filename Value="main.pas"/>
+        <Caret Line="79" Column="74" TopLine="66"/>
+      </Position>
+      <Position>
+        <Filename Value="main.pas"/>
+        <Caret Line="111" Column="79" TopLine="95"/>
       </Position>
     </JumpHistory>
     <RunParams>

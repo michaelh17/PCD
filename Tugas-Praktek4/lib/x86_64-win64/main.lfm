@@ -1,11 +1,11 @@
 object Form1: TForm1
-  Left = 2426
-  Height = 929
-  Top = 235
+  Left = 262
+  Height = 906
+  Top = 202
   Width = 1562
   Caption = 'Praktikum 04 - Operasi Geometri'
-  ClientHeight = 0
-  ClientWidth = 0
+  ClientHeight = 906
+  ClientWidth = 1562
   DesignTimePPI = 120
   OnCreate = FormCreate
   LCLVersion = '2.2.0.4'
